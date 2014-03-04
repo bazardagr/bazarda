@@ -1,4 +1,6 @@
 bazarda
 =======
 
-bazarda
+bazarda.gr
+gr
+
