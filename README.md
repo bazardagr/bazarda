@@ -2,5 +2,5 @@ bazarda
 =======
 
 bazarda.gr
-gr
 
+# python runserver.py
