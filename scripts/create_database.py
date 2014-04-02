@@ -1,3 +1,3 @@
 #On python shell
-from bazarda.model import db
+from bazarda import db
 db.create_all()
